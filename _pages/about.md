@@ -12,13 +12,13 @@ profile:
     <p>Based in San Diego, CA</p>
     <p>seanwahl19@gmail.com</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Sean! I'm an aspiring mechanical engineer with a passion for clean, sleek designs that efficiently meet their intended purpose. I'm eager to learn and I'm not afraid to approach problems from unique perspectives. If you're not wrong, you're not learning!
+Hi, I'm Sean! I'm a Product Development Engineer at Mattel focused on transforming ideas into manufacturable products through rapid prototyping and mechanical design.
 
-I graduated from Cal Poly SLO in December 2023 with my Bachelor's degree in mechanical engineering (concentrating in mechatronics). Since then, I've enjoyed my time traveling and working on desk projects. Most of these involve small, one day, 3D printed designs, but I have some larger projects in progress. I especially have a passion for 3D printing and electromechanical systems.
+I graduated from California Polytechnic State University with a degree in Mechanical Engineering and enjoy building projects that combine hardware, design, and experimentation. My work spans CAD, 3D printing, prototyping, embedded systems, and product development workflows from concept to iteration.
 
-I am currently looking for a full-time engineering job. If you think the fit is right, feel free to contact me at my email!
+This site is a collection of engineering projects, prototypes, and technical explorations that reflect how I approach design problems: hands-on, iterative, and detail-oriented.
